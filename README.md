@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**jdtzmn/jdtzmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 I'm working on a snazzy portfolio website before applying to companies during my gap year
+- 🔥 I’m passionate about using software to make the world a better place (and also open source software, cryptography, robotics, and piano)
+- 🌱 I’m currently learning about microeconomics, investing, and the many different hypothetical multiverses we live in
+- 🔭 I’m taking a gap year before attending MIT this fall, where I will be pursuing an electrical engineering and computer science degree
+- 😄 Pronouns: he/him/his
 
-Here are some ideas to get you started:
+Some informative images:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![jdtzmn's Github Stats](https://github-readme-stats.vercel.app/api?username=jdtzmn&count_private=true&show_icons=true)
+
+![jdtzmn's Wakatime week stats](https://github-readme-stats.vercel.app/api/wakatime?username=jdtzmn)
+
+![jdtzmn's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jdtzmn&layout=compact)
