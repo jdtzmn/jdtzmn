@@ -1,5 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdtzmn&count_private=true&show_icons=true&hide=issues,contribs&hide_border=true&hide_title=true&hide_rank=true)
-
 ### Hi there 👋
 
 - 👨‍💻&nbsp; I'm working on a snazzy portfolio website before **applying for internships and jobs**
