@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻&nbsp; I'm working on a snazzy portfolio website before **applying for internships and jobs**
+- 👨‍💻&nbsp; I'm working on a snazzy portfolio website before **applying for internships and jobs** in January
 - 🔥&nbsp; I’m passionate about **using software to make the world a better place**
   - and also open source software, cryptography, robotics, and piano
 - 🌱&nbsp; I’m currently learning about microeconomics and the many different hypothetical multiverses we live in
